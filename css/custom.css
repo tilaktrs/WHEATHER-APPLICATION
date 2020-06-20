@@ -1,0 +1,58 @@
+ #home{
+        border: solid 1px black;
+            
+            background: none;
+            background-size:cover;
+            background-position: center center;
+            width: 100%;  
+            
+        }
+        #home-video{
+            
+            position: fixed;
+            min-width:100%;
+            min-height: 100%;
+            width:auto;
+            height: auto;
+            z-index: -1;
+            
+        }
+
+#a{
+    color: burlywood;
+    
+
+}
+    
+
+          label{
+            font-size: 22px;
+            color: greenyellow;
+        }
+    input[type=number]
+        {
+            width:200px;
+            padding:10px 15px;
+            margin: 8px 0;
+            display:inline-block
+            box-sizing: border-box;
+            font-size: 30;
+            border-radius: 15px;
+            background-color: lightyellow;
+ }
+        input[type=button]
+        {
+            width: 150px;
+            padding:12px 20px;
+            font-size: 30;
+            border-radius: 15px;
+            background-color: lightsalmon;
+}
+button{
+    width: 150px;
+    padding:12px 20px;
+    font-size:  30;
+    border-radius: 15px;
+    background-color: black;
+    color: aqua;
+}
