@@ -8,7 +8,8 @@ its a wheather application where  we can see current wheath"er of any city over 
 
 
 
-![github](https://user-images.githubusercontent.com/50310860/86873438-e59fc980-c0fb-11ea-9f7b-7bcc3999bf6a.gif)
+![weather](https://user-images.githubusercontent.com/50310860/86874602-4defaa80-c0fe-11ea-888d-a943dbeb3120.gif)
+
 
 
 
