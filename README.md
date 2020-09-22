@@ -2,7 +2,6 @@
 #### Its a fully featured  weather application implemented with all the best features like current weather , Location Detector , temperature convertor , indian standard time , timeZone convertor , sun calculator and many more . 
 
 
-![weather2](https://user-images.githubusercontent.com/50310860/86875305-cf940800-c0ff-11ea-85be-2a584b29be3c.gif)
 
 ![Screenshot (210) - Copy](https://user-images.githubusercontent.com/50310860/93772776-ddf0bb00-fc3c-11ea-91c1-e16a70ae57f7.png)
 ![Screenshot (211) - Copy](https://user-images.githubusercontent.com/50310860/93772781-dfba7e80-fc3c-11ea-813f-d25cf80c6378.png)
