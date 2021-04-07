@@ -1,7 +1,6 @@
 # WHEATHER-APPLICATION
 #### Its a fully featured  weather application implemented with all the best features like current weather , Location Detector , temperature convertor , indian standard time , timeZone convertor , sun calculator and many more . 
-
-![4ftdj5](https://user-images.githubusercontent.com/50310860/93839812-bedd4200-fcab-11ea-8356-9d5ace46e300.gif)
+![54p2et](https://user-images.githubusercontent.com/50310860/113869737-b0312500-97ce-11eb-8aa9-6cc9313f02d4.gif)
 ![4ftd2m](https://user-images.githubusercontent.com/50310860/93839817-c13f9c00-fcab-11ea-81bd-5e93d4473fdc.gif)
 ![4ftcxa](https://user-images.githubusercontent.com/50310860/93839822-c3a1f600-fcab-11ea-81ae-e4f506410ffc.gif)
 ![4ftcmn](https://user-images.githubusercontent.com/50310860/93839827-c6045000-fcab-11ea-9f75-8c650e91389a.gif)
